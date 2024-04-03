@@ -1,0 +1,26 @@
+{
+  "name": "remove-duplicates-items",
+  "version": "1.0.2",
+  "description": "remove the duplicates in an array",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopikrishna500apps/remove-duplicates.git"
+  },
+  "keywords": [
+    "remove",
+    "duplicates",
+    "remove duplicates in an array",
+    "duplicates remove"
+  ],
+  "author": "Gopikrishna Gurivisetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gopikrishna500apps/remove-duplicates/issues"
+  },
+  "homepage": "https://github.com/Gopikrishna500apps/remove-duplicates#readme"
+}
